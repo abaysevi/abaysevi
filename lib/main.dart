@@ -674,7 +674,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     decoration: InputDecoration(
                       counter: Offstage(),
                       enabledBorder: OutlineInputBorder(
-                        borderSide: BorderSide(color: Colors.grey, width: 1.0),
+                        borderSide: BorderSide(color: Colors.black, width: 1.0),
                       ),
                       // hintText: 'Email',
                       // prefixIcon: Icon(Icons.mail_outline),
