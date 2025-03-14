@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @abaysevi
-- 👀 I’m interested in ... dart Programming 
-- 🌱 I’m currently learning ... Nodejs
-- 💞️ I’m looking to collaborate on ... Backend
-- 📫 How to reach me ... No wieeee
+### Hi there 👋, I'm Abay!  
 
-<!---
-abaysevi/abaysevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about **open source, software development, and machine learning**.  
+🛠️ Currently working on **Flutter applications with Flask and PostgreSQL**.  
+🌐 Exploring **AI, cybersecurity, and data science** for my next career move.  
+💻 Love building **full-stack applications** and experimenting with **performance benchmarks**.  
+⚡ Always curious about **new technologies, Linux setups, and self-hosting**.  
+
+📌 Tech Stack:  
+- **Languages:** Python, Dart, JavaScript, Rust (Exploring)  
+- **Frontend:** Flutter, React, Electron  
+- **Backend:** Flask, Django, Node.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Tools:** Docker, Supabase, GraphQL, AWS Lambda  
+
+📫 **Let's connect!**  
+- 💬 Feel free to discuss **open source, software architecture, or tech trends**.  
+- 📩 Reach me via GitHub issues or discussions.  
